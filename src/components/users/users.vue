@@ -278,10 +278,6 @@ export default {
         },
         // 获取用户列表的请求
         async getUserList() {
-            // 需要授权的API，需要在请求头中提供token令牌
-            const AUTH_TOKEN = localStorage.getItem('token');
-            this.$http.defaults.headers.common['Authorization'] = AUTH_TOKEN;
-
             const res = await this.$http.get(`users?query=${this.query}&pagenum=${this.pagenum}&pagesize=${this.pagesize}`)
             const {
                 meta: {

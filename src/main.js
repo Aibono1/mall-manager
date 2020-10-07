@@ -3,6 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 import ElementUI from 'element-ui';
+import MyBread from '@/components/cuscom/myBread.vue'
 import MyHttpServer from '@/plugins/http.js'
 import 'element-ui/lib/theme-chalk/index.css';
 import '@/assets/css/reset.css'
@@ -19,6 +20,9 @@ Vue.config.productionTip = false
 Vue.filter('fmtdate',(v)=>{
   return moment(v).format('YYYY-MM-DD');
 })
+
+// 全局自定义组件
+Vue.component(MyBread.name,MyBread)
 
 /* eslint-disable no-new */
 new Vue({
