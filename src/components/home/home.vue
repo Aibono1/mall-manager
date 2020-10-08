@@ -51,16 +51,16 @@ export default {
       menus:[]
     }
   },
-  beforeCreate(){
-    // 获取token
-    const token = localStorage.getItem('token');
+  // beforeCreate(){
+  //   // 获取token
+  //   const token = localStorage.getItem('token');
 
-    if (!token){
-      // token没有 -> 转到登陆页面
-      this.$router.push({name:"login"});
-    }
-    // if token有 -> 继续渲染组件
-  },
+  //   if (!token){
+  //     // token没有 -> 转到登陆页面
+  //     this.$router.push({name:"login"});
+  //   }
+  //   // if token有 -> 继续渲染组件
+  // },
   created(){
     this.getMenus()
   },
