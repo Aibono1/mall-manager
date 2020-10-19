@@ -32,13 +32,13 @@ export default {
         };
     },
     created() {
-        this.getRightlist();
+        this.getRightlist()
     },
     methods: {
         async getRightlist() {
-            const res = await this.$http.get(`rights/list`);
-            this.rightlist = res.data.data;
-        },
+            const res = await this.$http.get(`rights/list`)
+            this.rightlist = res.data.data
+        }
     }
 };
 </script>

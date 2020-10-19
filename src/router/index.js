@@ -13,7 +13,6 @@ import Goodscate from '@/components/goods/goodscate.vue'
 import Orders from '@/components/order/order.vue'
 import Reports from '@/components/reports/reports.vue'
 
-
 Vue.use(Router)
 
 const router = new Router({
@@ -78,7 +77,7 @@ router.beforeEach((to,from,next) => {
     // 如果要去的不是登陆
     //  判断token
     //  获取token
-    const token = localStorage.getItem('token');
+    const token = sessionStorage.getItem('token');
     if (!token){
       // token没有 -> 转到登陆页面
       // this.$router.push({name:"login"});
