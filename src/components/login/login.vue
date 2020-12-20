@@ -33,7 +33,7 @@ export default {
                 username: "admin",
                 password: "123456"
             },
-        };
+        }
     },
     methods: {
         // 表单重置按钮

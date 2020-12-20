@@ -1,12 +1,9 @@
 // 插件模块
-
 import axios from 'axios'
-
 
 const MyHttpServer = {}
 
 MyHttpServer.install = (Vue) => {
-
     axios.defaults.baseURL = 'http://127.0.0.1:8888/api/private/v1'
 
     // 在请求发起之前，会先来到下面的回调函数

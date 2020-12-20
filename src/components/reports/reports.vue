@@ -1,8 +1,10 @@
 <template>
-<el-card>
+<div>
     <my-bread level1="数据统计" level2="数据报表"></my-bread>
+    <el-card>
     <div id="main" class="echarts"></div>
 </el-card>
+</div>
 </template>
 
 <script>

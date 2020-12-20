@@ -1,6 +1,13 @@
-# mallmanager53
+# mall-manager
 
 > A Vue.js project
+
+## Preview
+![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic0.png)
+![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic1.png)
+![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic2.png)
+![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic3.png)
+![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic4.png)
 
 ## Build Setup
 
