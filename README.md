@@ -3,11 +3,20 @@
 > A Vue.js project
 
 ## Preview
-![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic0.PNG)
-![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic1.PNG)
-![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic2.PNG)
-![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic3.PNG)
-![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic4.PNG)
+Login Page
+![image](https://github.com/Aibono1/mall-manager/raw/main/pics/pic0.PNG)
+
+User Information
+![image](https://github.com/Aibono1/mall-manager/raw/main/pics/pic1.PNG)
+
+Product Category
+![image](https://github.com/Aibono1/mall-manager/raw/main/pics/pic2.PNG)
+
+List for adding product
+![image](https://github.com/Aibono1/mall-manager/raw/main/pics/pic3.PNG)
+
+Statistical report
+![image](https://github.com/Aibono1/mall-manager/raw/main/pics/pic4.PNG)
 
 ## Build Setup
 
