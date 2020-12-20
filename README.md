@@ -3,11 +3,11 @@
 > A Vue.js project
 
 ## Preview
-![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic0.png)
-![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic1.png)
-![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic2.png)
-![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic3.png)
-![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic4.png)
+![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic0.PNG)
+![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic1.PNG)
+![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic2.PNG)
+![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic3.PNG)
+![image](https://github.com/Aibono1/mall-manager/raw/master/pics/pic4.PNG)
 
 ## Build Setup
 
